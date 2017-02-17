@@ -7,7 +7,7 @@ from twitter_info import consumer_key, consumer_secret, access_token, access_tok
 ## SI 206 - W17 - HW5
 ## COMMENT WITH:
 ## Your section day/time: Friday 1-2pm
-## Any names of people you worked with on this assignment: 
+## Any names of people you worked with on this assignment: Margaux Klein
 
 ######## 500 points total ########
 
