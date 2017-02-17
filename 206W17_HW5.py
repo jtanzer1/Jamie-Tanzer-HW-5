@@ -6,8 +6,8 @@ from twitter_info import consumer_key, consumer_secret, access_token, access_tok
 
 ## SI 206 - W17 - HW5
 ## COMMENT WITH:
-## Your section day/time:
-## Any names of people you worked with on this assignment:
+## Your section day/time: Friday 1-2pm
+## Any names of people you worked with on this assignment: 
 
 ######## 500 points total ########
 
@@ -60,7 +60,8 @@ for each_tweet in data["statuses"][:3]:
     print ('TEXT:', each_tweet['text'])
     print ()
 
-##My cache file I am submitting for this assignment is with the search term 'trump'.
+##My cache files I am submitting for this project are for the keyword "trump" and "obama".
+#I have attempted to complete the extra credit portion for this assignment. 
 
 
 #### Recommended order of tasks: ####
